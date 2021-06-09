@@ -1,2 +1,2 @@
 # check
-test repository
+Check any updates
